@@ -72,7 +72,7 @@
 | apply ttl                  |     |
 | incomming sign verfication |     |
 
-| Website            | Datails |
+| Website            | Details |
 | ------------------ | ------- |
 | network encryption |         |
 | CSRF               |         |

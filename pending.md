@@ -18,11 +18,27 @@
 
 ## ONDC
 
-### search
-
 - incomming sign verfication
 - taxes value (for each sub Category)
 - breakUps
+
+### search
+
+- add domain filter
+- long_desc, short_desc save to show data
+- locality, street, building, and c/o save to show data
+
+### select
+
+### init
+
+### confirm
+
+### cancel
+
+### status
+
+### update
 
 ## Security
 

@@ -72,8 +72,6 @@
 | apply ttl                  |                                                                                                                              |
 | incomming sign verfication | [vlook Node Implementations](https://github.com/ONDC-Official/reference-implementations/tree/main/utilities/vlookup/node.js) |
 
-|
-
 | Website            | Details |
 | ------------------ | ------- |
 | network encryption |         |

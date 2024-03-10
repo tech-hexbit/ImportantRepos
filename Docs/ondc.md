@@ -15,17 +15,6 @@
 - update the on_cancel payload
 - save payment methods
 
-### search
-
-- add domain filter
-- long_desc, short_desc save to show data
-- locality, street, building, and c/o save to show data
-
-### select
-
-- out of stock availability
-- breakUp - delivery and other add once Chrarges
-
 ### init
 
 - availability in stock > 0 ✅

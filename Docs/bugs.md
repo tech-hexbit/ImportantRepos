@@ -1,12 +1,5 @@
 # HEXBIT.IO-BUYER -> Bugs
 
-### General
-
-| Bug                | Updates | Create | Design | Comments |
-| ------------------ | ------- | ------ | ------ | -------- |
-| Order Email Prices | ✅      |        |        |          |
-| Ticket Email       |         | ✅     |        |          |
-
 ### dashboad page
 
 - Seller
@@ -36,23 +29,11 @@
 | Add Domain - ONDC:RET18         |         | ✅     |        |
 | Add Domain - ONDC:RET19         |         | ✅     |        |
 
-### payment
-
-| Bug      | Updates | Create | Design |
-| -------- | ------- | ------ | ------ |
-| top list | ✅      |        |        |
-
 ### super admin
 
 | Bug                        | Updates | Create | Design |
 | -------------------------- | ------- | ------ | ------ |
 | seller disconnect by admin |         | ✅     |        |
-
-### /me
-
-| Bug                               | Updates | Create | Design |
-| --------------------------------- | ------- | ------ | ------ |
-| design for bank info (seperation) |         |        | ✅     |
 
 ### /me/Inventory
 

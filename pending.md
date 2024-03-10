@@ -26,6 +26,7 @@
 - created_at, updated_at fix.
 - Delivery charges, Convenience Fee to be added once and dynamic
 - breakUps
+- prices flow
 
 ### search
 

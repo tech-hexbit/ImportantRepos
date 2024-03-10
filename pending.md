@@ -67,7 +67,12 @@
 
 ## Security
 
-| Website            | ONDC                       |
-| ------------------ | -------------------------- |
-| network encryption | apply ttl                  |
-| CSRF               | incomming sign verfication |
+| Website            | Datails |
+| ------------------ | ------- |
+| network encryption |         |
+| CSRF               |         |
+
+| ONDC                       |     |
+| -------------------------- | --- |
+| apply ttl                  |     |
+| incomming sign verfication |     |

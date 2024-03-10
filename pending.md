@@ -67,12 +67,12 @@
 
 ## Security
 
-| Website            | Datails |
-| ------------------ | ------- |
-| network encryption |         |
-| CSRF               |         |
-
 | ONDC                       |     |
 | -------------------------- | --- |
 | apply ttl                  |     |
 | incomming sign verfication |     |
+
+| Website            | Datails |
+| ------------------ | ------- |
+| network encryption |         |
+| CSRF               |         |

@@ -15,18 +15,10 @@
 - update the on_cancel payload
 - save payment methods
 
-### init
-
-### update
-
-- update breakup
-- send mail on order return Initiated
-
 ## seller
 
 - login page forgot password
 - email ver
-- partial Cancellation
 - product del
 - order del
 - register cat.

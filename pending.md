@@ -11,6 +11,9 @@
   - Item
     - store item imported_product_country_of_origin
   - Store
+    - long_desc
+    - short_desc
+    - category
 
 ## ONDC
 

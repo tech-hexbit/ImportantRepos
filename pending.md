@@ -7,15 +7,18 @@
 - OTP (system)
 - System Generated Emails - In the footer of the emails required
 
-- Saved Data
-  - Item
-    - store item imported_product_country_of_origin
-  - Store
-    - long_desc
-    - short_desc
-    - category
+### Saved Data
+
+- Item
+  - store item imported_product_country_of_origin
+- Store
+  - long_desc
+  - short_desc
+  - category
 
 ## ONDC
+
+### search
 
 - incomming sign verfication
 - taxes value (for each sub Category)

@@ -18,10 +18,13 @@
   - long_desc
   - short_desc
   - category
+  - save data for address = street, Pin code, State, City, Building
 
 ## ONDC
 
 - taxes value (for each sub Category)
+- created_at, updated_at fix.
+- Delivery charges, Convenience Fee to be added once and dynamic
 - breakUps
 
 ### search
@@ -31,6 +34,8 @@
 - locality, street, building, and c/o save to show data
 
 ### select
+
+- provider ID in select for Logistics
 
 ### init
 
@@ -53,6 +58,11 @@
 - partial cancel
 - update the return status
 - send mail on order return Initiated or return status is changed
+
+## Hexbit Backend
+
+- make 2 servers (1 ONDC | 1 Backend)
+- make the seller connected to bank, kyc (bidirectional graph)
 
 ## Security
 

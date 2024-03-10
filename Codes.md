@@ -39,6 +39,10 @@
 | "RTO-Disposed"    | RTO terminal state when "return to origin" not required | "Cancelled" (if all fulfillments cancelled) or "Completed" |
 | "RTO-Delivered"   | RTO terminal state when "return to origin" required     | "Cancelled" (if all fulfillments cancelled) or "Completed" |
 
+## Updates Codes
+
+| Fulfillment State | When to assign state | Order state |
+
 ## Date and Time Codes
 
 | Label | Meaning                                                                                     |

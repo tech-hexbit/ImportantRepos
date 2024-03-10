@@ -41,7 +41,12 @@
 
 ## Updates Codes
 
-| Fulfillment State | When to assign state | Order state |
+| Fulfillment State | When to assign state    |
+| ----------------- | ----------------------- |
+| Return_Initiated  | new fulfillment created |
+| Return_Approved   | If return is approved   |
+| Liquidated        | If return is approved   |
+| Return_Rejected   | If return is rejected   |
 
 ## Date and Time Codes
 

@@ -32,6 +32,9 @@
 
 ### init
 
+- availability in stock > 0 ✅
+- lock the stock
+
 ### confirm
 
 ### cancel

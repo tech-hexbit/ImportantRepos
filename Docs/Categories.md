@@ -1,0 +1,22 @@
+# Categories
+
+- Agri Inputs
+- Food & Beverages
+- Fashion
+- Grocery
+- Agriculture
+- Beauty & Personal Care
+- Home & Decor
+- Electronics
+- Toys & Games
+- Automotive
+- Books
+- Health & Wellness
+- Fruits and Vegetables
+- Masala & Seasoning
+- Oil & Ghee
+- Gourmet & World Foods
+- Foodgrains
+- Eggs, Meat & Fish
+- Cleaning & Household
+- Beverages

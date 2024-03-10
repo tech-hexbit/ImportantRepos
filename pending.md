@@ -8,7 +8,9 @@
 - System Generated Emails - In the footer of the emails required
 
 - Saved Data
-  - store item imported_product_country_of_origin
+  - Item
+    - store item imported_product_country_of_origin
+  - Store
 
 ## ONDC
 

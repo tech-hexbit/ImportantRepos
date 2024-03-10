@@ -5,6 +5,7 @@
 - issue flow
 - send email when the ticket is rasised and recived a reply, etc.
 - OTP (system)
+- Payment GateWay
 - System Generated Emails - In the footer of the emails required
 
 ### Saved Data
@@ -42,6 +43,11 @@
 ### status
 
 ### update
+
+- update breakup
+- partial cancel
+- update the return status
+- send mail on order return Initiated or return status is changed
 
 ## Security
 

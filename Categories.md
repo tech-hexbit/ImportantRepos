@@ -1,6 +1,6 @@
 # Categories
 
-## Grocery (RETIO)
+## Grocery (RET:1O)
 
 | Category ID                   | Tax |
 | ----------------------------- | --- |

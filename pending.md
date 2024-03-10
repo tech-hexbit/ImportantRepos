@@ -7,6 +7,7 @@
 - OTP (system)
 - Payment GateWay
 - System Generated Emails - In the footer of the emails required
+- Fulfillment state update flow
 
 ### Saved Data
 
@@ -41,6 +42,8 @@
 ### cancel
 
 ### status
+
+- Fulfillment state update
 
 ### update
 

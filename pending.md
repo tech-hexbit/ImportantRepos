@@ -20,7 +20,6 @@
 
 ## ONDC
 
-- incomming sign verfication
 - taxes value (for each sub Category)
 - breakUps
 
@@ -54,6 +53,7 @@
 
 ## Security
 
-| Website            | ONDC      |
-| ------------------ | --------- |
-| network encryption | apply ttl |
+| Website            | ONDC                       |
+| ------------------ | -------------------------- |
+| network encryption | apply ttl                  |
+| CSRF               | incomming sign verfication |

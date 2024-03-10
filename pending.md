@@ -67,10 +67,10 @@
 
 ## Security
 
-| ONDC                       |     |
-| -------------------------- | --- |
-| apply ttl                  |     |
-| incomming sign verfication |     |
+| ONDC                       | Details |
+| -------------------------- | ------- |
+| apply ttl                  |         |
+| incomming sign verfication |         |
 
 | Website            | Details |
 | ------------------ | ------- |

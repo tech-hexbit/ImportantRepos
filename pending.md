@@ -8,6 +8,7 @@
 - Payment GateWay
 - System Generated Emails - In the footer of the emails required
 - Fulfillment state update flow
+- RTO state flow update
 
 ### Saved Data
 
@@ -39,6 +40,8 @@
 ### confirm
 
 ### cancel
+
+- RTO state flow update
 
 ### status
 

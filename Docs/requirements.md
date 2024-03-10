@@ -14,4 +14,3 @@
 ## Misc
 
 - Tutorial video to be listed
-- SMS account (paid 💵)

@@ -3,8 +3,6 @@
 ## email
 
 - email for sending System Generated Emails
-- admin email
-- support email
 
 ## Pages
 

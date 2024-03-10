@@ -11,8 +11,6 @@
 
 ## Security
 
-| Website | ONDC |
-| ------- | ---- |
-
-| network encryption
-| apply ttl |
+| Website            | ONDC      |
+| ------------------ | --------- |
+| network encryption | apply ttl |

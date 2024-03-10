@@ -5,7 +5,7 @@
 - issue flow
 - send email when the ticket is rasised and recived a reply, etc.
 - OTP (system)
-- Payment GateWay
+- Payment GateWay (system)
 - System Generated Emails - In the footer of the emails required
 - Fulfillment state update flow
 - RTO state flow update

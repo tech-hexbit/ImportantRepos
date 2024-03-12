@@ -23,6 +23,9 @@
 
 ## ONDC
 
+- search by city
+- incremental search
+- search by fulfillment
 - taxes value (for each sub Category)
 - created_at, updated_at fix.
 - Delivery charges, Convenience Fee to be added once and dynamic
@@ -63,7 +66,6 @@
 
 ## Hexbit Backend
 
-- make 2 servers (1 ONDC | 1 Backend)
 - make the seller connected to bank, kyc (bidirectional graph)
 
 ## Security

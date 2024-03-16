@@ -39,6 +39,15 @@
 | "RTO-Disposed"    | RTO terminal state when "return to origin" not required | "Cancelled" (if all fulfillments cancelled) or "Completed" |
 | "RTO-Delivered"   | RTO terminal state when "return to origin" required     | "Cancelled" (if all fulfillments cancelled) or "Completed" |
 
+## Issue Code
+
+| respondent_action | Code |
+| ----------------- | ---- |
+| PROCESSING        | 0    |
+| CASCADED          | 1    |
+| RESOLVED          | 2    |
+| NEED-MORE-INFO    | 3    |
+
 ## Updates Codes
 
 | Fulfillment State | When to assign state    |

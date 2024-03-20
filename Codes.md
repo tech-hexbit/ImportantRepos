@@ -48,6 +48,15 @@
 | RESOLVED          | 2    |
 | NEED-MORE-INFO    | 3    |
 
+## Action Triggered Code
+
+| action_triggered | Code |
+| ---------------- | ---- |
+| REFUND           | 0    |
+| REPLACEMENT      | 1    |
+| CANCEL           | 2    |
+| NO-ACTION        | 3    |
+
 ## Updates Codes
 
 | Fulfillment State | When to assign state    |

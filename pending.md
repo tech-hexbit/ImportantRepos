@@ -2,10 +2,10 @@
 
 ## Website
 
-- issue flow
+- issue flow (data save and send)
 - send email when the ticket is rasised and recived a reply, etc.
 - OTP (system)
-- Payment GateWay (system)
+- Payment GateWay (bugs fix)
 - System Generated Emails - In the footer of the emails required
 - Fulfillment state update flow
 - RTO state flow update

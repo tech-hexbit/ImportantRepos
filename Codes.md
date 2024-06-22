@@ -8,14 +8,16 @@
 
 ## Items State Codes
 
-| Level | Name        | Order | Info                 |
-| ----- | ----------- | ----- | -------------------- |
-| 0     | Created     | 1st   | Cancel ✅, Return ❌ |
-| 1     | Accepted    | 2nd   | Cancel ✅, Return ❌ |
-| 2     | In-progress | 3rd   | Cancel ❌, Return ❌ |
-| 3     | Completed   | 4th   | Cancel ❌, Return ✅ |
-| 4     | Cancelled   | 5th   | Cancel ❌, Return ✅ |
-| 5     | Return      | 6th   | Cancel ❌, Return ✅ |
+| Level | Name          | Order | Info                 |
+| ----- | ------------- | ----- | -------------------- |
+| 0     | Created       | 1st   | Cancel ✅, Return ❌ |
+| 1     | Accepted      | 2nd   | Cancel ✅, Return ❌ |
+| 2     | In-progress   | 3rd   | Cancel ❌, Return ❌ |
+| 3     | Completed     | 4th   | Cancel ❌, Return ✅ |
+| 4     | Cancelled     | 5th   | Cancel ❌, Return ✅ |
+| 5     | RTO-Initiated | 6th   | Cancel ❌, Return ✅ |
+| 6     | RTO-Disposed  | 7th   | Cancel ❌, Return ✅ |
+| 7     | RTO-Delivered | 8th   | Cancel ❌, Return ✅ |
 
 ## Fulfillment states & mapping to order states
 

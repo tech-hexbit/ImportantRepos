@@ -8,16 +8,23 @@
 
 ## Items State Codes
 
-| Level | Name          | Order | Info                 |
-| ----- | ------------- | ----- | -------------------- |
-| 0     | Created       | 1st   | Cancel ✅, Return ❌ |
-| 1     | Accepted      | 2nd   | Cancel ✅, Return ❌ |
-| 2     | In-progress   | 3rd   | Cancel ❌, Return ❌ |
-| 3     | Completed     | 4th   | Cancel ❌, Return ✅ |
-| 4     | Cancelled     | 5th   | Cancel ❌, Return ✅ |
-| 5     | RTO-Initiated | 6th   | Cancel ❌, Return ✅ |
-| 6     | RTO-Disposed  | 7th   | Cancel ❌, Return ✅ |
-| 7     | RTO-Delivered | 8th   | Cancel ❌, Return ✅ |
+| Level | Name               | Order | Info                 |
+| ----- | ------------------ | ----- | -------------------- |
+| 0     | Created            | 1st   | Cancel ✅, Return ❌ |
+| 1     | Accepted           | 2nd   | Cancel ✅, Return ❌ |
+| 2     | In-progress        | 3rd   | Cancel ❌, Return ❌ |
+| 3     | Completed          | 4th   | Cancel ❌, Return ✅ |
+| 4     | Cancelled          | 5th   | Cancel ❌, Return ✅ |
+| 5     | RTO-Initiated      | 6th   | Cancel ❌, Return ✅ |
+| 6     | RTO-Disposed       | 7th   | Cancel ❌, Return ✅ |
+| 7     | RTO-Delivered      | 8th   | Cancel ❌, Return ✅ |
+| 8     | Return_Initiated   | 9th   | Cancel ❌, Return ✅ |
+| 9     | Return_Approved    | 10th  | Cancel ❌, Return ✅ |
+| 10    | Return_Pick_Failed | 11th  | Cancel ❌, Return ✅ |
+| 11    | Return_Picked      | 12th  | Cancel ❌, Return ✅ |
+| 12    | Return_Delivered   | 13th  | Cancel ❌, Return ✅ |
+| 13    | Return_Failed      | 14th  | Cancel ❌, Return ✅ |
+| 14    | Return_Rejected    | 15th  | Cancel ❌, Return ✅ |
 
 ## Fulfillment states & mapping to order states
 

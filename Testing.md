@@ -1,6 +1,4 @@
-```PROD - https://docs.google.com/spreadsheets/d/1JZV6ZQzXcHUsOwegGtArX3DdIXYIy3gxkhQ00q7kICc/edit?gid=1367601795#gid=1367601795
-
-```
+- [Roll out Plan v 1.2.0_Final](https://www.github.com/octokatherine)
 
 # Things Required for DEMO :
 

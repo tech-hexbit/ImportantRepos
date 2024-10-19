@@ -1,4 +1,4 @@
-- [Roll out Plan v 1.2.0_Final](https://www.github.com/octokatherine)
+[Roll out Plan v 1.2.0_Final](https://www.github.com/octokatherine)
 
 # Things Required for DEMO :
 
